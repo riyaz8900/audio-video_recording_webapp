@@ -11,7 +11,11 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 ---------------------------------------------------------------------------------------------------------------------------------------
-
+For local run project steps 
+1.git clone url,
+2.npm install
+3.npm run dev
+------------------------------------------------------------------------------------------------------------------------------------------
 # audio-video_recording_webapp
 # 🎙️ Audio & Video Recorder App (React)
 
@@ -19,7 +23,7 @@ A modern React web app that enables users to record **audio and video**, preview
 
 ## 🚀 Live Demo
 
-[🔗 Click to View Live App](https://your-deployment-url.com)
+[🔗 Click to View Live App]   https://splendorous-douhua-84577c.netlify.app/
 
 ---
 
